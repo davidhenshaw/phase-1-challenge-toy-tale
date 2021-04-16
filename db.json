@@ -47,6 +47,36 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Bionicle",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41FDANGV7XL._AC_.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Another bionicle lol",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41FDANGV7XL._AC_.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Yet another bionicle",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41FDANGV7XL._AC_.jpg",
+      "likes": 1,
+      "id": 11
+    },
+    {
+      "name": "Ok stop with the bionicles",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41FDANGV7XL._AC_.jpg",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Beeg Yoshi",
+      "image": "https://pbs.twimg.com/media/Dx3Zc4xV4AAwvND.jpg",
+      "likes": 3,
+      "id": 13
     }
   ]
 }
